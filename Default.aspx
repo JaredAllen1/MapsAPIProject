@@ -1,8 +1,3 @@
-﻿<%@ Page Title="Home Page" Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication2._Default" %>
-
-<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -413,7 +408,7 @@
     </script>
 
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2l0sqvMlfYTX683rmcK4zrYG5rPOOE7w&libraries=drawing&v=3&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=APIKEY&libraries=drawing&v=3&callback=initMap">
     </script>
 
 
